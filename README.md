@@ -1,5 +1,5 @@
 ### Hi Github, I'm Mahdi👋
-I am Master's Degree programme student in ICT at KTH, Royal Institute of Technology 
+I am M.Sc. student in ICT at KTH, Royal Institute of Technology. 
 <hr>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mahdi-nazari-995b9822a/" target="_blank">
