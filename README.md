@@ -17,7 +17,7 @@
  </div>
  
 #### I am M.Sc. student in Information and Communication Technology at KTH, Royal Institute of Technology. 
-- 🔭 I’m currently studying my second year
+- 🔭 I’m currently studying my third year
 - 📫 How to reach me: mnazari@kth.se
 <br/>
 
