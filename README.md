@@ -1,9 +1,4 @@
 
-<div id="badges" align="center">
-</div>
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MahdiNazarii&style=flat-square&color=blue" alt=""/>
-</div>
 <div align="center">
 
  ![snapshot](https://user-images.githubusercontent.com/100143248/225767120-c64f80bb-4a3e-4ead-9c7c-023c8c1c7c5f.png)
@@ -44,14 +39,7 @@
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp; 
 </div>
 <br/>
-<hr>
 
-### My Stats :
-<br/>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahdinazarii&theme=dark&hide_border=true&border_radius=2.7&mode=weekly"/></a>
-<br>
-<br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdinazarii&layout=compact&theme=vision-friendly-dark"/></a>
 
 
 
