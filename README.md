@@ -11,8 +11,8 @@
   
  </div>
  
-#### I am M.Sc. student in Information and Communication Technology at KTH, Royal Institute of Technology. 
-- 🔭 I’m currently studying my third year
+#### I am a Master's student (M.Sc., or "Civilingenjör" in Swedish) in Information and Communication Technology at KTH. 
+- 🔭 I have completed my bachelor degree and planning to specialize in Machine Learning for my Master's. 
 - 📫 How to reach me: mnazari@kth.se
 <br/>
 
@@ -36,7 +36,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;&nbsp;
- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp; 
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Light.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;&nbsp;
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;&nbsp;
 </div>
 <br/>
 
